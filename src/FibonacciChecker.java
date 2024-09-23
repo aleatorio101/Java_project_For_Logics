@@ -16,7 +16,6 @@ public class FibonacciChecker {
         scanner.close();
     }
 
-    // Método que verifica se o número está na sequência de Fibonacci
     public static boolean isFibonacci(int numero) {
         int a = 0;
         int b = 1;
